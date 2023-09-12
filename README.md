@@ -43,7 +43,6 @@ Let's dive right in. To get started on any new Python application, the first
 thing we need is a file. Fork and clone this lesson from GitHub, then create a
 new file in this repo's `lib/` directory called `app.py`. In this file, add
 the following:
-
 ```python
 # lib/app.py
 print("Hello world!")
